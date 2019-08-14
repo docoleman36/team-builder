@@ -13,3 +13,5 @@ const data = [
     role: "Student"
   }
 ]
+
+export default data;
